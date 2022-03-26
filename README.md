@@ -1,16 +1,14 @@
-### 👋 Olá, Mundo! Eu sou Rolwane.
+### 👋 Olá, Mundo! Eu sou Rolwane!
 
 <br />
 
-Desenvolvedor Front-end, gosto de café, música, tocar instrumentos e sou muito fã de Foo Fighters! 🤟
+**Desenvolvedor Front-end**, gosto de café, música, tocar instrumentos e sou muito fã de Foo Fighters! 🤟
 
-Também gosto muito de tecnologia! <s>por essa você não esperava, não é mesmo?</s> Sempre fui fascinado pelo mundo do desenvolvimento de software e desde sempre estudei sozinho nessas internets por aí. Fiz 3 anos de Ciência da Computação e atualmente estudo na Trybe buscando a formação de Full Stack!
+Também gosto muito de tecnologia! <s>por essa você não esperava, não é mesmo?</s> Sempre fui fascinado pelo mundo do desenvolvimento de software e desde sempre estudei sozinho nessas internets por aí. Fiz 3 anos de Ciências da Computação e atualmente estudo na Trybe buscando a formação de Full Stack!
 
 <br />
 
 ###  Tecnologias que estou apto a trabalhar 🚀
-
-<br >
 
 <div>
   <img src="./images/react.png" width="25" title="React"/> &nbsp;
@@ -26,7 +24,7 @@ Também gosto muito de tecnologia! <s>por essa você não esperava, não é mesm
 <br />
 <br />
 
-###  Tecnologias que estou estudando 🚀
+###  Tecnologias que estou estudando
 
 <div>
   <img src="./images/docker.png" width="40" title="Docker"/> &nbsp;
