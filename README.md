@@ -19,6 +19,8 @@ Também gosto muito de tecnologia! <s>por essa você não esperava, não é mesm
   <img src="./images/css.png" width="25" title="CSS3"/> &nbsp;
   <img src="./images/git.png" width="25" title="Git"/> &nbsp;
   <img src="./images/github.png" width="25" title="Github"/> &nbsp;
+  <img src="./images/docker.png" width="40" title="Docker"/> &nbsp;
+  <img src="./images/node.png" width="100" title="Node JS"/> &nbsp;
 </div>
 
 <br />
@@ -27,11 +29,9 @@ Também gosto muito de tecnologia! <s>por essa você não esperava, não é mesm
 ###  Tecnologias que estou estudando
 
 <div>
-  <img src="./images/docker.png" width="40" title="Docker"/> &nbsp;
   <img src="./images/typescript.png" width="25" title="TypeScript"/> &nbsp;
   <img src="./images/mongo.png" width="15" title="MongoDB"/> &nbsp;
   <img src="./images/python.png" width="28" title="Python"/> &nbsp;
-  <img src="./images/node.png" width="100" title="Node JS"/> &nbsp;
 </div>
 
 <br />
