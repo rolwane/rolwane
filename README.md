@@ -2,7 +2,7 @@
 
 <br />
 
-**Desenvolvedor Front-end**, gosto de café, música, tocar instrumentos e sou muito fã de Foo Fighters! 🤟
+**Desenvolvedor Full Stack**, gosto de café, música, tocar instrumentos e sou muito fã de Foo Fighters! 🤟
 
 Também gosto muito de tecnologia! <s>por essa você não esperava, não é mesmo?</s> Sempre fui fascinado pelo mundo do desenvolvimento de software e desde sempre estudei sozinho nessas internets por aí. Fiz 3 anos de Ciências da Computação e atualmente estudo na Trybe buscando a formação de Full Stack!
 
