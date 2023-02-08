@@ -20,7 +20,7 @@ Também gosto muito de tecnologia! <s>por essa você não esperava, não é mesm
   <img src="./images/git.png" width="25" title="Git"/> &nbsp;
   <img src="./images/github.png" width="25" title="Github"/> &nbsp;
   <img src="./images/docker.png" width="40" title="Docker"/> &nbsp;
-    <img src="./images/kotlin.png" width="40" title="Kotlin"/> &nbsp;
+    <img src="./images/kotlin.png" width="25" title="Kotlin"/> &nbsp;
   <img src="./images/node.png" width="100" title="Node JS"/> &nbsp;
 </div>
 
